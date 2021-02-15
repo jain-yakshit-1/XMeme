@@ -1,0 +1,1 @@
+export const RE_IMAGE_URL = /(http(s?):)([/|.|\w|\s|-])*\.(?:jpg|gif|png|svg|jpeg)/
